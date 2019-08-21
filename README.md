@@ -42,6 +42,14 @@ No changes to formulae.
 $ pack set-default-builder cloudfoundry/cnb:bionic
 ```
 
+### Build
+
+```
+$ pack build myapp
+```
+
+[![asciicast](https://asciinema.org/a/dMDbUjTpGEEOnsaZPo351P7BD.png)](https://asciinema.org/a/dMDbUjTpGEEOnsaZPo351P7BD)
+
 ## Installation
 
 ## Licence
