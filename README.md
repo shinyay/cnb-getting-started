@@ -48,6 +48,12 @@ $ pack set-default-builder cloudfoundry/cnb:bionic
 $ pack build myapp
 ```
 
+### Run Container
+
+```
+$ docker run --rm -it -p 8080:8080 myapp
+```
+
 [![asciicast](https://asciinema.org/a/dMDbUjTpGEEOnsaZPo351P7BD.png)](https://asciinema.org/a/dMDbUjTpGEEOnsaZPo351P7BD)
 
 ## Installation
