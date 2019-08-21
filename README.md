@@ -37,6 +37,10 @@ No changes to formulae.
 🍺  /usr/local/Cellar/pack/0.3.0: 3 files, 14.0MB, built in 7 seconds
 ```
 
+### Default Builder
+```
+$ pack set-default-builder cloudfoundry/cnb:bionic
+```
 
 ## Installation
 
