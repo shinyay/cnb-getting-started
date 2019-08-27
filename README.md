@@ -9,6 +9,8 @@ Tutorial for Cloufd Native Buildpacks
 
 ## Demo
 
+[![asciicast](https://asciinema.org/a/dMDbUjTpGEEOnsaZPo351P7BD.png)](https://asciinema.org/a/dMDbUjTpGEEOnsaZPo351P7BD)
+
 ## Features
 
 - feature:1
@@ -53,8 +55,6 @@ $ pack build myapp
 ```
 $ docker run --rm -it -p 8080:8080 myapp
 ```
-
-[![asciicast](https://asciinema.org/a/dMDbUjTpGEEOnsaZPo351P7BD.png)](https://asciinema.org/a/dMDbUjTpGEEOnsaZPo351P7BD)
 
 ## Installation
 
